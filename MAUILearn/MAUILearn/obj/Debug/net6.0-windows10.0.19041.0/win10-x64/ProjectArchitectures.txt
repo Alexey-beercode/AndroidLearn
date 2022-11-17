@@ -1,0 +1,1 @@
+C:\AProject\AndroidLearn\MAUILearn\MAUILearn\MAUILearn.csproj;x64
